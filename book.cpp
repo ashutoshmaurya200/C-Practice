@@ -259,12 +259,6 @@ class PrintedBook:public Book{
 };
  
 
-// Price ≤ 0
-
-// File size ≤ 0 for digital products
-
-// Weight ≤ 0 for physical products
-
 
 
 
@@ -389,4 +383,5 @@ int main(){
     }
         
     }
+
 }
